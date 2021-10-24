@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<i class="fa fa-globe fa-fw"></i>Website: [Url shortener](https://small.deta.dev/)
+🌏 Website: [Url shortener](https://small.deta.dev/)
 
-<i class="fa fa-globe fa-fw"></i>Website: [Youtube MP3 downloader](https://ytdmp3.herokuapp.com/)
+🌏 Website: [Youtube MP3 downloader](https://ytdmp3.herokuapp.com/)
 
 <!--
 **YuTingKung/YuTingKung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
