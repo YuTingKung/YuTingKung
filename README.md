@@ -9,7 +9,9 @@ I'm a FrontEnd developer from Taiwan
 
 - 💼 FrontEnd Engineer at [Adavntech](https://www.advantech.tw/)
 
-- 🎓 Master degree in Computer sicence @National Taipei University of Technology(Computer Engineering Group, Department of Electronic Engineering)
+- 🎓 Master degree in Computer sicence
+  
+  @National Taipei University of Technology(Computer Engineering Group, Department of Electronic Engineering)
 
 - ❤️ I love writing JavaScript, c#
 
