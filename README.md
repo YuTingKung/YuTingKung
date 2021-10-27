@@ -9,7 +9,7 @@ I'm a FrontEnd developer from Taiwan
 
 - 💼 FrontEnd Engineer at [Adavntech](https://www.advantech.tw/)
 
-- 🎓 Master degree in Computer sicence
+- 🎓 Master of Sicence
   
   @[National Taipei University of Technology](https://www-en.ntut.edu.tw/)([Computer Engineering Group](https://ece.ntut.edu.tw/p/412-1071-2678.php?Lang=zh-tw), [Department of Electronic Engineering](https://ece.ntut.edu.tw/))
 
