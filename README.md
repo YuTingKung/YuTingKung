@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-🌏 Website: [Url shortener](https://small.deta.dev/)
 
-🌏 Website: [Youtube MP3 downloader](https://ytdmp3.herokuapp.com/)
-
-<p align="center"><a href="https://YuTingKung.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<!--p align="center"><a href="https://YuTingKung.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p-->
 
 I'm a FrontEnd developer from Taiwan
 
@@ -20,7 +15,9 @@ I'm a FrontEnd developer from Taiwan
 
 - 💬 Ask me about anything [here](https://github.com/YuTingKung/YuTingKung/issues)
 
+- 🌏 Website: [Url shortener](https://small.deta.dev/)
 
+- 🌏 Website: [Youtube MP3 downloader](https://ytdmp3.herokuapp.com/)
 
 **Languages and Tools:**  
 
