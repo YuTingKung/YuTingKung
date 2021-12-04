@@ -9,12 +9,12 @@ I'm a FrontEnd developer from Taiwan
 
 - 💼 FrontEnd Engineer at [Adavntech](https://www.advantech.tw/)
 
-- 🎓 Master of Sicence
-  
-  @[NTUT](https://www-en.ntut.edu.tw/)([CE](https://ece.ntut.edu.tw/p/412-1071-2678.php?Lang=zh-tw), [EE](https://ece.ntut.edu.tw/))
+- 🎓 Master of Sicence @[NTUT](https://www-en.ntut.edu.tw/)([CE](https://ece.ntut.edu.tw/p/412-1071-2678.php?Lang=zh-tw), [EE](https://ece.ntut.edu.tw/))
 
 NTUT (National Taipei University of Technology)
+
 CE (Computer Engineering Group)
+
 EE (Department of Electronic Engineering)
 
 - ❤️ I love writing JavaScript, C#
