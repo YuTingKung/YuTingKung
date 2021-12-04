@@ -11,7 +11,11 @@ I'm a FrontEnd developer from Taiwan
 
 - 🎓 Master of Sicence
   
-  @[National Taipei University of Technology](https://www-en.ntut.edu.tw/)([Computer Engineering Group](https://ece.ntut.edu.tw/p/412-1071-2678.php?Lang=zh-tw), [Department of Electronic Engineering](https://ece.ntut.edu.tw/))
+  @[NTUT](https://www-en.ntut.edu.tw/)([CE](https://ece.ntut.edu.tw/p/412-1071-2678.php?Lang=zh-tw), [EE](https://ece.ntut.edu.tw/))
+
+NTUT (National Taipei University of Technology)
+CE (Computer Engineering Group)
+EE (Department of Electronic Engineering)
 
 - ❤️ I love writing JavaScript, C#
 
